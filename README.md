@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a 9th grade student I'm learning programming</h3>
 
-![](shinra.gif)
-<img src= "shinra.gif" width="40" height="40" />
+
+<img src= "shinra.gif" width="340" height="340" />
 
                                            
                                            
