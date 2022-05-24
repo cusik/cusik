@@ -9,6 +9,6 @@
                                            
                                            
                                            
-                                           [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cusik)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cusik)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusik&layout=compact)](https://github.com/cusik/github-readme-stats)
 [![cusik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cusik)](https://github.com/cusik/github-readme-stats)
