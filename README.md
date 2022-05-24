@@ -3,7 +3,7 @@
 <h3 align="center">I am a 9th grade student I'm learning programming</h3>
 
 
-<img src= "shinra.gif" width="340" height="340" />
+<img src= "shinra.gif" width="1000" height="340" />
 
                                            
                                            
