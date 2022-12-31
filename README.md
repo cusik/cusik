@@ -13,3 +13,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cusik)](https://git.io/streak-stats)
 
 [![cusik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cusik)](https://github.com/cusik/github-readme-stats)
+
+https://mangalib.me/enen-no-shouboutai?section=chapters&ui=5210228
