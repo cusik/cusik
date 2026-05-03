@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm cusik</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">I'm learning c++ and watching anime, writing python code)</h3>
 
